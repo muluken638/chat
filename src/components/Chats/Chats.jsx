@@ -4,7 +4,7 @@ function Chats() {
   return (
     <div className="chats">
       <div className="userChat">
-        <img src="../marti.jpg" />
+        <img src="../marti.jpg" alt='name' />
         <div className="userChatInfo">
           <span>Meseret tamru</span>
           <p>Hello Love</p>
@@ -12,7 +12,7 @@ function Chats() {
       </div>
 
       <div className="userChat">
-        <img src="../marti.jpg" />
+        <img src="../marti.jpg" alt='name'/>
         <div className="userChatInfo">
           <span>Meseret tamru</span>
           <p>I love You</p>
@@ -20,7 +20,7 @@ function Chats() {
       </div>
 
       <div className="userChat">
-        <img src="../marti.jpg" />
+        <img src="../marti.jpg" alt='name' />
         <div className="userChatInfo">
           <span>Meseret tamru</span>
           <p>One love is .</p>

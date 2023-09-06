@@ -5,7 +5,7 @@ function Navbar() {
     <div className="navbar">
       <div className="logo">Miller Chat</div>
       <div className="user">
-        <img src="../marti.jpg"  />
+        <img src="../marti.jpg" alt="name"  />
         <span>Marta Mulat</span>
         <button>Logout</button>
       </div>

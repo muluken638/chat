@@ -7,7 +7,7 @@ function Searchbar() {
         <input type="text" placeholder='Find a user...' />
       </div>
       <div className="userChat">
-        <img src="../marti.jpg" />
+        <img src="../marti.jpg" alt='name'/>
         <div className="userChatInfo">
             <span>Meseret tamru</span>
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import { FiMenu,FiUserPlus,FiVideo } from "react-icons/fi";
-import Message from '../Message/Message';
+// import Message from '../Message/Message';
 import Messages from '../Messages/Messages';
 import Input from '../Input/Input'
 const Chat=() =>{
